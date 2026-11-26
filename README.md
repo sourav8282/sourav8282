@@ -1,32 +1,34 @@
+# Hi, I'm Sourav 👋
 
-# Hi, I am Sourav!
+🎓 B.Tech Student at K.R. Mangalam University
 
-## About Me
+💻 Aspiring Full-Stack Developer
 
-- B.Tech CSE Student at K.R. Mangalam University, Gurugram
-- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
-- Interested in: AI/ML and Full-Stack Development
+I'm learning programming and building my skills in software development. I enjoy exploring new technologies and creating projects.
 
-## Technical Skills
+## 🚀 Skills
 
-| Category | Technologies |
-|---|---|
-| Languages | Python (Beginner), Bash / Shell Scripting |
-| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
-| Concepts | File Systems, Process Management, REST APIs, Markdown |
+- Python Fundamentals
+- Git and GitHub
+- Linux Command Line
+- Bash Scripting
+- REST API Fundamentals
+- JSON and jq
 
-## Featured Projects
+## 📂 Projects
 
-- [CSE103 Lab — LAB 3](https://github.com/sourav8282/cse103-lab-LAB3)
+### DeveloperPortfolio
+My developer portfolio project, created as part of my CSE103 Capstone.
 
-  Git workflows, API interaction, and Markdown documentation.
+- [GitHub Repository](https://github.com/sourav8282/DeveloperPortfolio)
+- [Live Portfolio Website](https://sourav8282.github.io/DeveloperPortfolio/)
 
-## Currently Working On
+## 🎯 Career Goal
 
-- Semester lab projects and improving my problem-solving skills.
+To become a Full-Stack Developer and build useful, real-world applications.
 
-## Connect With Me
+## 📫 Connect with Me
 
-- GitHub: https://github.com/sourav8282
-- LinkedIn: linkedin.com/in/sourav-badgujjar-71a176431
-- Email: 2601730345@krmu.edu.in
+- **GitHub:** https://github.com/sourav8282
+- **LinkedIn:** https://www.linkedin.com/in/sourav-badgujjar-71a176431/
+- **Email:** souravjaat815@gmail.com
